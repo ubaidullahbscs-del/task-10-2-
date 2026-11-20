@@ -1,0 +1,24 @@
+h3{
+    
+    color: rgb(218, 186, 7);
+
+}
+
+th{
+   
+    background-color: beige;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+ 
+body { /* element selector */
+font-family: Arial, sans-serif;
+background-color: #f4f6f8;
+color: #222121;
+margin: 5;
+}
